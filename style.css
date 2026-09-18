@@ -13,7 +13,7 @@ body {
     line-height: 1.6;
     margin: 0;
     color: #3b2a13E;             /* marrom escuro (texto) */
-    background-color: #1919;  /* creme (fundo) */
+    background-color: #A020F;  /* creme (fundo) */
 }
 
 /* ===== Cabeçalho ===== */
@@ -105,7 +105,7 @@ blockquote {
 }
 
 .tabela-cardapio thead {
-    background-color: #A052;
+    background-color: #A00;
     color: #FF9;
 }
 
