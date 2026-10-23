@@ -12,14 +12,14 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     line-height: 1.6;
     margin: 0;
-    color: #14bd98;             /* marrom escuro (texto) */
-    background-color: rgba(2, 0, 36, 0.667);  /* creme (fundo) */
+    color: #0a0252;             /* marrom escuro (texto) */
+    background-color: rgba(11, 5, 119, 0.667);  /* creme (fundo) */
 }
 
 /* ===== Cabeçalho ===== */
 .cabecalho {
     background-color: #1762a0;  /* âmbar escuro — texto branco tem contraste AA */
-    color: #FFFFFF;
+    color: #1762a0;
     text-align: center;
     padding: 24px 16px;
 }
@@ -52,7 +52,7 @@ main {
 }
 
 blockquote {
-    border-left: 4px solid #A0721A;
+    border-left: 4px solid #c9bd1c;
     margin: 0 0 16px;
     padding: 8px 16px;
     background-color: #FEE5;
@@ -67,10 +67,10 @@ blockquote {
 
 .card {
     flex: 1 1 250px;       /* cresce, encolhe, largura base 250px */
-    border: 1px solid #E0C6;
+    border: 1px solid rgba(17, 0, 255, 0.89);
     border-radius: 8px;
     padding: 12px;
-    background-color: #fff8ff
+    background-color: #rgba(17, 0, 255, 0,89);
 }
 
 .card img {
